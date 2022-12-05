@@ -22,6 +22,6 @@
 
        $ cd CRACK-MAIN
        $ git pull
-       $ python main.py
+       $ python main_enc.py
 
 Terimah kasih
